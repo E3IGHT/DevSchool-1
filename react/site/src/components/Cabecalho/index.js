@@ -1,4 +1,6 @@
 import { ContainerCabecalho } from "../Cabecalho/styled";
+
+
 export default function Index() {
     return ( 
 <ContainerCabecalho>

@@ -1,5 +1,5 @@
-import  {Container}  from "./styled";
-import Index from "../../components/Cabecalho/index";
+import  { Container }  from "./styled";
+import Index from '../../components/Cabecalho'
 
 import Api from '../../service/api';
 import { useState, useEffect } from "react";

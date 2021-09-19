@@ -1,9 +1,9 @@
-import styled from "styled-components";
+import styled from 'styled-components'
+
 const ContainerCabecalho = styled.div `
 
 position: sticky;
     top: 0px;
-
 
 * {
     box-sizing: border-box;
@@ -101,6 +101,6 @@ position: sticky;
     color: #1A1A1A;
 }
 
-`;
+`
 
 export {ContainerCabecalho};
